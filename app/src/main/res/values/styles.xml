@@ -1,18 +1,4 @@
 <resources>
-
-
-    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="colorPrimary">#FFFFFF</item>
-        <item name="colorButtonNormal">#FFFFFF</item>
-    </style>
-
-
-    <string name="about">Very well stocked Mini Mart, visit us or make an order by phone to recieve up to 10 items at home!</string>
-    <string name="text_address">Carrer Guitard 74, 08014 Barcelona\n(Metro L3 - Plaça Del Centre)</string>
-    <string name="text_info"><u>Show on Map</u></string>
-    <string name="text_telephone">+34 93 681 63 12</string>
-    <string name="text_email">a10acasa@hotmail.com</string>
-    <string name="text_hours">Mon - Sun\n09:00 - 15:00\n16:00 - 22:00</string>
-
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"></style>
 </resources>
 
